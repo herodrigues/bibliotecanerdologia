@@ -10,12 +10,12 @@ Livros
 
 ![Sapiens](../images/sapiens.png)
 
-**Título**: Uma Breve História da Humanidade - Sapiens<br>
+**Título**: [Uma Breve História da Humanidade - Sapiens](http://www.livrariacultura.com.br/p/life-unfolding-42190543?id_link=8787)<br>
 **Autor**: [Yuval Noah Harari](http://www.ynharari.com/)
 
 ![Life Unfolding](../images/life-unfolding.png)
 
-**Título**: Life Unfolding: How the Human Body Creates Itself><br>
+**Título**: [Life Unfolding: How the Human Body Creates Itself](https://www.google.com.br/search?output=search&tbm=shop&q=Uma+Breve+Hist%C3%B3ria+da+Humanidade+-+Sapiens&oq=Uma+Breve+Hist%C3%B3ria+da+Humanidade+-+Sapiens&gs_l=products-cc.3...3746.3746.0.4446.1.1.0.0.0.0.163.163.0j1.1.0....0...1ac.1.64.products-cc..1.0.0.sCazhU1Fftc)<br>
 **Autor**: [Jamie A. Davies](http://www.ed.ac.uk/integrative-physiology/staff-profiles/research-groups/jamie-davies)
 
 Artigos
