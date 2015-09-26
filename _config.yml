@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Nerdologia Library
+name: Biblioteca Nerdologia
 
 # Short bio or description (displayed in the header)
 description: A biblioteca de Alexandria do canal Nerdologia
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook: CanalNerdologia
   flickr:
-  github: herodrigues/nerdologia-library
+  github: herodrigues/bibliotecanerdologia
   instagram: nerdologia
   linkedin:
   pinterest:
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: nerdologia-library.github.io
+url: herodrigues.me/bibliotecanerdologia
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
