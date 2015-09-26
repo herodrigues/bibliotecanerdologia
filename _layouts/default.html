@@ -34,6 +34,14 @@
       </div>
     </div>
 
+	<div class="sidebar">
+		<h2>Todas as postagens</h2>
+		<ul>
+			{% for post in site.posts %}
+				<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
