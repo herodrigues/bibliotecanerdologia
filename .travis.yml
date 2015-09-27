@@ -1,0 +1,14 @@
+language: ruby
+rvm:
+  - 2.1.1
+
+install:
+  - export PATH=$HOME/.local/bin:$PATH
+  - gem install jekyll
+
+script:
+  - jekyll build
+
+branches:
+  only:
+    - gh-pages
