@@ -103,3 +103,27 @@ body {
   display: inline-block;
   border-radius: 50%;
 }
+
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+/*************************************/
+
+@import "reset";
+@import "variables";
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.date {
+  font-style: italic;
+  color: $gray;
+}
+
+@import "highlights";
+@import "svg-icons";
