@@ -167,7 +167,15 @@ a {
   }
 }
 
+h1 a {
+	color: #000000;
+}
 
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+    background-color: #428bca;
+    color: #fff;
+}
+ 
 @import "highlights.css";
 @import "svg-icons.css";
 
