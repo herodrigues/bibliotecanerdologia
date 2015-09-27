@@ -83,8 +83,10 @@ html {
   font-size: 1.20rem;
 }
 
-.circular {
-  border-radius: 50%;
+img.circular {
+  display: block;
+  margin: 0 auto 2rem;
+  border-radius: 20%;
 }
 
 /* Sidebar nav */
