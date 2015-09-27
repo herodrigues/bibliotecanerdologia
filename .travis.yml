@@ -5,6 +5,7 @@ rvm:
 install:
   - export PATH=$HOME/.local/bin:$PATH
   - gem install jekyll
+  - gem install jekyll-sitemap
 
 script:
   - jekyll build
