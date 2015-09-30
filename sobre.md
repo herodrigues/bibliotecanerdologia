@@ -12,7 +12,9 @@ Aqui você encontrará links com:
 - Sites dos autores<br>
 - PDFs dos artigos citados
 
-_Nota: Alguns artigos não possuem o link direto do PDF. Porém, eles possuem links para sites de revistas científicas onde, para ter acesso, você precisa pagar ou acessar de uma universidade que tenha assinatura dessa revista._
+_Nota 1: Alguns artigos não possuem o link direto do PDF. Porém, eles possuem links para sites de revistas científicas onde, para ter acesso, você precisa pagar ou acessar de uma universidade que tenha assinatura dessa revista._
+
+_Nota 2: Alguns vídeos não estão no site pois não houveram artigos ou livros citados como nos primeiros vídeos do canal_
 
 Para contribuir com esse projeto, visite o repositório oficial no Github clicando [aqui](https://github.com/herodrigues/bibliotecanerdologia).
 
