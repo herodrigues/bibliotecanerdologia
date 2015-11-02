@@ -6,6 +6,7 @@ install:
   - export PATH=$HOME/.local/bin:$PATH
   - gem install jekyll
   - gem install jekyll-sitemap
+  - gem install jekyll-paginate
 
 script:
   - jekyll build
