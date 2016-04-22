@@ -56,7 +56,6 @@ baseurl: /bibliotecanerdologia
 # !! You don't need to change any of the configuration flags below !!
 #
 
-kramdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
