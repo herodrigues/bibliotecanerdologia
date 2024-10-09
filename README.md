@@ -16,7 +16,7 @@ Aqui você encontrará links com:
 - Sites dos autores<br>
 - PDFs dos artigos citados
 
-Acesse o site em [http://herodrigues.me/bibliotecanerdologia](http://herodrigues.me/bibliotecanerdologia).
+Acesse o site em [http://herodrigues.github.io/bibliotecanerdologia](http://herodrigues.github.io/bibliotecanerdologia).
 
 _Este projeto utiliza o tema [Hyde](http://hyde.getpoole.com/)._
 
